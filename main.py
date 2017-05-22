@@ -14,5 +14,8 @@ Hermano = Movie("Hermano",
                 "https://www.youtube.com/watch?v=noDyc2JocB4")
 
 
+# maintain the list of my favorite movies
 movies = [finding_nemo, shool_rock, Hermano]
+
+# display the movie infomation
 open_movies_page(movies)
